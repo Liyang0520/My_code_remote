@@ -1,12 +1,3 @@
-# *===================================*
-# * Created by Zhihua_w.
-# * Author: Wei ZhiHua
-# * Date: 2017/1/10 0005
-# * Time: 下午 2:39
-# * Project: PYTHON STUDY
-# * Power: DATABASE
-# *===================================*
-
 import pymysql
 
 # 打开数据库连接（ip/数据库用户名/登录密码/数据库名）
