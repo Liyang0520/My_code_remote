@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import font_manager
-#import matplotlib
+import matplotlib
 
 # 设置字体
 matplotlib.rcParams['font.sans-serif'] = ['SimHei']  # 用黑体显示中文
